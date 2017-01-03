@@ -1,4 +1,10 @@
 /*
+ *  JYB - tests cd chaincode - 2016/12
+    https://github.com/jyb/learn-chaincode/tree/master/start
+    https://github.com/IBM-Blockchain/learn-chaincode
+    https://github.com/IBM-Blockchain/learn-chaincode/blob/master/docs/setup.md
+ */
+/*
 Copyright IBM Corp 2016 All Rights Reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
